@@ -42,16 +42,3 @@ When you **create new account** and become a member, you can **add posts and com
 [Trello board](https://trello.com/b/EJykAHz8/music-react-project)
 
 [Organization Github](https://github.com/Music-Redux)
-
-
-
-# Music-Wave
-### Our Musicwave website using the Spotify Web API endpoints return JSON metadata about music artists, albums, and tracks, directly from the Spotify Data Catalogue. Web API also provides access to user related data, like playlists and music that the user saves in the Your Music library.
-
-
-  
-  
-  
- 
-
-
